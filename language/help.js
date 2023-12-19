@@ -1,6 +1,6 @@
 /*
-› Create By @RIY
-› Base Ori @DikaArdnt
+› Create By @yc
+› Base Ori @allxz
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
 */
@@ -142,39 +142,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}trap 
   *≻* ${prefix}blowjob 
   
-  *TEXT PRO MENU*
-  *≻* ${prefix}3dchristmas
-  *≻* ${prefix}3ddeepsea
-  *≻* ${prefix}americanflag
-  *≻* ${prefix}3dscifi
-  *≻* ${prefix}3drainbow
-  *≻* ${prefix}3dwaterpipe
-  *≻* ${prefix}halloweenskeleton
-  *≻* ${prefix}sketch
-  *≻* ${prefix}bluecircuit
-  *≻* ${prefix}space
-  *≻* ${prefix}metallic
-  *≻* ${prefix}fiction
-  *≻* ${prefix}greenhorror
-  *≻* ${prefix}transformer
-  *≻* ${prefix}berry
-  *≻* ${prefix}thunder
-  *≻* ${prefix}magma
-  *≻* ${prefix}3dcrackedstone
-  *≻* ${prefix}3dneonlight
-  *≻* ${prefix}impressiveglitch
-  *≻* ${prefix}naturalleaves
-  *≻* ${prefix}fireworksparkle
-  *≻* ${prefix}matrix
-  *≻* ${prefix}dropwater
-  *≻* ${prefix}harrypotter
-  *≻* ${prefix}foggywindow
-  *≻* ${prefix}neondevils
-  *≻* ${prefix}christmasholiday
-  *≻* ${prefix}3dgradient
-  *≻* ${prefix}blackpink
-  *≻* ${prefix}gluetext
-  
   *PHOTO OXY MENU*
   *≻* ${prefix}shadow
   *≻* ${prefix}romantic
@@ -188,18 +155,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}butterfly
   *≻* ${prefix}harrypotter
   *≻* ${prefix}retrolol
-  
-  *EPHOTO MENU*
-  *≻* ${prefix}ffcover
-  *≻* ${prefix}crossfire
-  *≻* ${prefix}galaxy
-  *≻* ${prefix}glass
-  *≻* ${prefix}neon
-  *≻* ${prefix}beach
-  *≻* ${prefix}blackpink
-  *≻* ${prefix}igcertificate
-  *≻* ${prefix}ytcertificate
-  
+
   *GAME & FUN MENU*
   *≻* ${prefix}simih
   *≻* ${prefix}bagaimanakah
@@ -208,15 +164,12 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}bisakah
   *≻* ${prefix}rate
   *≻* ${prefix}wangy
-  *≻* ${prefix}gantengcek
-  *≻* ${prefix}cekganteng
-  *≻* ${prefix}cantikcek
-  *≻* ${prefix}cekcantik
-  *≻* ${prefix}sangecek
-  *≻* ${prefix}ceksange
-  *≻* ${prefix}gaycek
-  *≻* ${prefix}cekgay
-  *≻* ${prefix}lesbicek
+  *≻* ${prefix}asahotak
+  *≻* ${prefix}dare
+  *≻* ${prefix}susunkalimat
+  *≻* ${prefix}susunlirik
+  *≻* ${prefix}tebakkata
+  *≻* ${prefix}susunkata
   *≻* ${prefix}halah
   *≻* ${prefix}hilih
   *≻* ${prefix}huluh
@@ -262,62 +215,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}masasubur
   *≻* ${prefix}zodiak
   *≻* ${prefix}shio
-
-  *CERPEN MENU*
-  *≻* ${prefix}cerpen anak
-  *≻* ${prefix}cerpen bahasa daerah
-  *≻* ${prefix}cerpen bahasa inggris
-  *≻* ${prefix}cerpen bahasa jawa
-  *≻* ${prefix}cerpen bahasa sunda
-  *≻* ${prefix}cerpen budaya
-  *≻* ${prefix}cerpen cinta
-  *≻* ${prefix}cerpen cinta islami
-  *≻* ${prefix}cerpen cinta pertama
-  *≻* ${prefix}cerpen cinta romantis
-  *≻* ${prefix}cerpen cinta sedih
-  *≻* ${prefix}cerpen cinta segitiga
-  *≻* ${prefix}cerpen cinta sejati
-  *≻* ${prefix}cerpen galau
-  *≻* ${prefix}cerpen gokil
-  *≻* ${prefix}cerpen inspiratif
-  *≻* ${prefix}cerpen jepang
-  *≻* ${prefix}cerpen kehidupan
-  *≻* ${prefix}cerpen keluarga
-  *≻* ${prefix}cerpen kisah nyata
-  *≻* ${prefix}cerpen korea
-  *≻* ${prefix}cerpen kristen
-  *≻* ${prefix}cerpen liburan
-  *≻* ${prefix}cerpen lingkungan
-  *≻* ${prefix}cerpen lucu
-  *≻* ${prefix}cerpen malaysia
-  *≻* ${prefix}cerpen mengharukan
-  *≻* ${prefix}cerpen misteri
-  *≻* ${prefix}cerpen motivasi
-  *≻* ${prefix}cerpen nasihat
-  *≻* ${prefix}cerpen nasionalisme
-  *≻* ${prefix}cerpen olahraga
-  *≻* ${prefix}cerpen patah hati
-  *≻* ${prefix}cerpen penantian
-  *≻* ${prefix}cerpen pendidikan
-  *≻* ${prefix}cerpen pengalaman pribadi
-  *≻* ${prefix}cerpen pengorbanan
-  *≻* ${prefix}cerpen penyesalan
-  *≻* ${prefix}cerpen perjuangan
-  *≻* ${prefix}cerpen perpisahan
-  *≻* ${prefix}cerpen persahabatan
-  *≻* ${prefix}cerpen petualangan
-  *≻* ${prefix}cerpen ramadhan
-  *≻* ${prefix}cerpen remaja
-  *≻* ${prefix}cerpen renungan
-  *≻* ${prefix}cerpen rindu
-  *≻* ${prefix}cerpen rohani
-  *≻* ${prefix}cerpen romantis
-  *≻* ${prefix}cerpen sastra
-  *≻* ${prefix}cerpen sedih
-  *≻* ${prefix}cerpen sejarah
-  *≻* ${prefix}cerpen slice of life
-  *≻* ${prefix}cerpen terjemahan
-  *≻* ${prefix}cerpen thriller
   
   *CONVERT MENU*
   *≻* ${prefix}toimage
@@ -334,23 +231,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}dbinary
   *≻* ${prefix}styletext
   *≻* ${prefix}smeme
-
-  *INFORMATION MENU*
-  *≻* ${prefix}merdeka-news 
-  *≻* ${prefix}kontan-news 
-  *≻* ${prefix}cnbc-news 
-  *≻* ${prefix}tribun-news 
-  *≻* ${prefix}indozone-news 
-  *≻* ${prefix}kompas-news 
-  *≻* ${prefix}detik-news 
-  *≻* ${prefix}daily-news 
-  *≻* ${prefix}inews-news 
-  *≻* ${prefix}okezone-news 
-  *≻* ${prefix}sindo-news 
-  *≻* ${prefix}tempo-news 
-  *≻* ${prefix}antara-news 
-  *≻* ${prefix}cnn-news 
-  *≻* ${prefix}fajar-news 
   
   *MAIN MENU*
   *≻* ${prefix}script
@@ -383,26 +263,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}keluar
   *≻* ${prefix}sendkontak
   
-  *ISLAMIC MENU*
-  *≻* ${prefix}iqra
-  *≻* ${prefix}hadist
-  *≻* ${prefix}alquran
-  *≻* ${prefix}juzamma
-  *≻* ${prefix}tafsirsurah
-  
-  *VOICE CHANGER*
-  *≻* ${prefix}bass
-  *≻* ${prefix}blown
-  *≻* ${prefix}deep
-  *≻* ${prefix}earrape
-  *≻* ${prefix}fast
-  *≻* ${prefix}fat
-  *≻* ${prefix}nightcore
-  *≻* ${prefix}reverse
-  *≻* ${prefix}robot
-  *≻* ${prefix}slow
-  *≻* ${prefix}tupai
-  
   *OWNER MENU*
   *≻* ${prefix}react [emoji]
   *≻* ${prefix}chat [option]
@@ -427,6 +287,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* Sanzy
   *≻* Nekel
   *≻* Bagas Prdn
+  *>*yc
   `
 }
 
@@ -619,43 +480,6 @@ exports.randomanimemenu = (prefix) => {
   `
 }
 
-exports.textpromenu = (prefix) => {
-	return`
-  *TEXT PRO MENU*
-  *≻* ${prefix}3dchristmas
-  *≻* ${prefix}3ddeepsea
-  *≻* ${prefix}americanflag
-  *≻* ${prefix}3dscifi
-  *≻* ${prefix}3drainbow
-  *≻* ${prefix}3dwaterpipe
-  *≻* ${prefix}halloweenskeleton
-  *≻* ${prefix}sketch
-  *≻* ${prefix}bluecircuit
-  *≻* ${prefix}space
-  *≻* ${prefix}metallic
-  *≻* ${prefix}fiction
-  *≻* ${prefix}greenhorror
-  *≻* ${prefix}transformer
-  *≻* ${prefix}berry
-  *≻* ${prefix}thunder
-  *≻* ${prefix}magma
-  *≻* ${prefix}3dcrackedstone
-  *≻* ${prefix}3dneonlight
-  *≻* ${prefix}impressiveglitch
-  *≻* ${prefix}naturalleaves
-  *≻* ${prefix}fireworksparkle
-  *≻* ${prefix}matrix
-  *≻* ${prefix}dropwater
-  *≻* ${prefix}harrypotter
-  *≻* ${prefix}foggywindow
-  *≻* ${prefix}neondevils
-  *≻* ${prefix}christmasholiday
-  *≻* ${prefix}3dgradient
-  *≻* ${prefix}blackpink
-  *≻* ${prefix}gluetext
-  `
-}
-
 exports.photooxymenu = (prefix) => {
 	return`
   *PHOTO OXY MENU*
@@ -698,16 +522,6 @@ exports.funmenu = (prefix) => {
   *≻* ${prefix}apakah
   *≻* ${prefix}bisakah
   *≻* ${prefix}rate
-  *≻* ${prefix}wangy
-  *≻* ${prefix}gantengcek
-  *≻* ${prefix}cekganteng
-  *≻* ${prefix}cantikcek
-  *≻* ${prefix}cekcantik
-  *≻* ${prefix}sangecek
-  *≻* ${prefix}ceksange
-  *≻* ${prefix}gaycek
-  *≻* ${prefix}cekgay
-  *≻* ${prefix}lesbicek
   *≻* ${prefix}halah
   *≻* ${prefix}hilih
   *≻* ${prefix}huluh
@@ -760,66 +574,6 @@ exports.primbonmenu = (prefix) => {
   `
 }
 
-exports.cerpenmenu = (prefix) => {
-	return`
-  *CERPEN MENU*
-  *≻* ${prefix}cerpen anak
-  *≻* ${prefix}cerpen bahasa daerah
-  *≻* ${prefix}cerpen bahasa inggris
-  *≻* ${prefix}cerpen bahasa jawa
-  *≻* ${prefix}cerpen bahasa sunda
-  *≻* ${prefix}cerpen budaya
-  *≻* ${prefix}cerpen cinta
-  *≻* ${prefix}cerpen cinta islami
-  *≻* ${prefix}cerpen cinta pertama
-  *≻* ${prefix}cerpen cinta romantis
-  *≻* ${prefix}cerpen cinta sedih
-  *≻* ${prefix}cerpen cinta segitiga
-  *≻* ${prefix}cerpen cinta sejati
-  *≻* ${prefix}cerpen galau
-  *≻* ${prefix}cerpen gokil
-  *≻* ${prefix}cerpen inspiratif
-  *≻* ${prefix}cerpen jepang
-  *≻* ${prefix}cerpen kehidupan
-  *≻* ${prefix}cerpen keluarga
-  *≻* ${prefix}cerpen kisah nyata
-  *≻* ${prefix}cerpen korea
-  *≻* ${prefix}cerpen kristen
-  *≻* ${prefix}cerpen liburan
-  *≻* ${prefix}cerpen lingkungan
-  *≻* ${prefix}cerpen lucu
-  *≻* ${prefix}cerpen malaysia
-  *≻* ${prefix}cerpen mengharukan
-  *≻* ${prefix}cerpen misteri
-  *≻* ${prefix}cerpen motivasi
-  *≻* ${prefix}cerpen nasihat
-  *≻* ${prefix}cerpen nasionalisme
-  *≻* ${prefix}cerpen olahraga
-  *≻* ${prefix}cerpen patah hati
-  *≻* ${prefix}cerpen penantian
-  *≻* ${prefix}cerpen pendidikan
-  *≻* ${prefix}cerpen pengalaman pribadi
-  *≻* ${prefix}cerpen pengorbanan
-  *≻* ${prefix}cerpen penyesalan
-  *≻* ${prefix}cerpen perjuangan
-  *≻* ${prefix}cerpen perpisahan
-  *≻* ${prefix}cerpen persahabatan
-  *≻* ${prefix}cerpen petualangan
-  *≻* ${prefix}cerpen ramadhan
-  *≻* ${prefix}cerpen remaja
-  *≻* ${prefix}cerpen renungan
-  *≻* ${prefix}cerpen rindu
-  *≻* ${prefix}cerpen rohani
-  *≻* ${prefix}cerpen romantis
-  *≻* ${prefix}cerpen sastra
-  *≻* ${prefix}cerpen sedih
-  *≻* ${prefix}cerpen sejarah
-  *≻* ${prefix}cerpen slice of life
-  *≻* ${prefix}cerpen terjemahan
-  *≻* ${prefix}cerpen thriller
-`
-}
-
 exports.convertmenu = (prefix) => {
 	return`
   *CONVERT MENU*
@@ -837,27 +591,6 @@ exports.convertmenu = (prefix) => {
   *≻* ${prefix}dbinary
   *≻* ${prefix}styletext
   `
-}
-
-exports.informationmenu = (prefix) => {
-	return`
-  *INFORMATION MENU*
-  *≻* ${prefix}merdeka-news 
-  *≻* ${prefix}kontan-news 
-  *≻* ${prefix}cnbc-news 
-  *≻* ${prefix}tribun-news 
-  *≻* ${prefix}indozone-news 
-  *≻* ${prefix}kompas-news 
-  *≻* ${prefix}detik-news 
-  *≻* ${prefix}daily-news 
-  *≻* ${prefix}inews-news 
-  *≻* ${prefix}okezone-news 
-  *≻* ${prefix}sindo-news 
-  *≻* ${prefix}tempo-news 
-  *≻* ${prefix}antara-news 
-  *≻* ${prefix}cnn-news 
-  *≻* ${prefix}fajar-news
-`
 }
 
 exports.mainmenu = (prefix) => {
@@ -903,34 +636,6 @@ exports.anonymousmenu = (prefix) => {
   `
 }
 
-exports.islamicmenu = (prefix) => {
-	return`
-  *ISLAMIC MENU*
-  *≻* ${prefix}iqra
-  *≻* ${prefix}hadist
-  *≻* ${prefix}alquran
-  *≻* ${prefix}juzamma
-  *≻* ${prefix}tafsirsurah
-  `
-}
-
-exports.voicechargermenu = (prefix) => {
-	return`
-  *VOICE CHANGER*
-  *≻* ${prefix}bass
-  *≻* ${prefix}blown
-  *≻* ${prefix}deep
-  *≻* ${prefix}earrape
-  *≻* ${prefix}fast
-  *≻* ${prefix}fat
-  *≻* ${prefix}nightcore
-  *≻* ${prefix}reverse
-  *≻* ${prefix}robot
-  *≻* ${prefix}slow
-  *≻* ${prefix}tupai
-  `
-}
-
 exports.ownermenu = (prefix) => {
 	return`
   *OWNER MENU*
@@ -962,5 +667,6 @@ exports.thanksto = () => {
   *≻* Sanzy
   *≻* Nekel
   *≻* Bagas Prdn
+  *>*yc
 `
 }
